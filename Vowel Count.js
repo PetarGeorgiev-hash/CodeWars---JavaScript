@@ -19,6 +19,6 @@ function getCount(str) {
         break;
     }
   }
-  console.log(count);
+
   return count;
 }
